@@ -1,12 +1,10 @@
-package com.fastcampus.javaoop.logic;
+package com.fastcampus.springpractice.logic;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class JavaSortTest {
     @DisplayName("자바소트- 리스트를 넣으면 정렬된 결과를 보여준다.")
